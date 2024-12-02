@@ -16,4 +16,7 @@
 
 ![image](https://github.com/user-attachments/assets/10e28ed0-5ca2-4198-abe9-dbebe80fdc10)
 
+## Interaction Model Analytic
+
+![image](https://github.com/user-attachments/assets/c0336460-c096-4e64-a0d1-a917aa8c303b)
 
